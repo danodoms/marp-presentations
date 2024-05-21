@@ -1,8 +1,9 @@
 ---
 marp: true
-theme: dracula
+theme: rose-pine
 paginate: true
-footer: "BEC INC."
+footer: "SECURITY INCIDENT RESPONSE PLAN"
+header: "BEC INC."
 ---
 
 # Security Incident Response Plan (SIRP)

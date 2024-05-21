@@ -1,3 +1,9 @@
 {
-  "markdown.marp.themes": ["themes/dracula.css"]
+  "markdown.marp.themes": [
+    "themes/dracula.css",
+    "themes/gradient.css",
+    "themes/graph_paper.css",
+    "themes/rose-pine.css",
+    "themes/border.css"
+  ]
 }
